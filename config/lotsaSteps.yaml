@@ -1,0 +1,3 @@
+behaviors:
+  FlappyBird:
+    max_steps: 5000000
